@@ -1,0 +1,10 @@
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\bin\Debug\CSharpSnakeGame.exe.config
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\bin\Debug\CSharpSnakeGame.exe
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\bin\Debug\CSharpSnakeGame.pdb
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\obj\Debug\CSharpSnakeGame.csprojResolveAssemblyReference.cache
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\obj\Debug\CSharpSnakeGame.PlayGround.resources
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\obj\Debug\CSharpSnakeGame.Properties.Resources.resources
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\obj\Debug\CSharpSnakeGame.csproj.GenerateResource.cache
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\obj\Debug\CSharpSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\obj\Debug\CSharpSnakeGame.exe
+C:\Users\V-Iph\source\repos\CSharpSnakeGameSolution\CSharpSnakeGame\obj\Debug\CSharpSnakeGame.pdb
